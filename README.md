@@ -1,4 +1,5 @@
 # ZooProject
+[![CodeFactor](https://www.codefactor.io/repository/github/stormrsa/zooproject/badge)](https://www.codefactor.io/repository/github/stormrsa/zooproject)
 
 Simple python project that follows the PEP8 coding style guidelines and utilizes the following basic python fundamentals:
 1.	While loops.
