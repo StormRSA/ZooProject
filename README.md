@@ -6,5 +6,4 @@ Simple python project that follows the PEP8 coding style guidelines and utilizes
 3.	Lists and Indexes.
 4.	Multi-lined comments.
 5.	User Inputs.
-6.  Type Casting
-
+6.  Type Casting.
