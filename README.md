@@ -9,4 +9,4 @@ Simple python project that follows the PEP8 coding style guidelines and utilizes
 5.	User Inputs.
 6.  Type Casting.
 
-
+Stay tuned for a more advanced python project that explores more fundamentals.
