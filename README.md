@@ -8,3 +8,7 @@ Simple python project that follows the PEP8 coding style guidelines and utilizes
 4.	Multi-lined comments.
 5.	User Inputs.
 6.  Type Casting.
+
+###########################################################################################################################
+Stay tuned for a new project thats is more advanced and explores more features of python. Will upload in the next few days!
+###########################################################################################################################
